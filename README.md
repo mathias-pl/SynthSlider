@@ -39,4 +39,28 @@ Create a hardware piece that can generate specific sounds thanks to a slider and
 
 ### Images
 *It is to be noted that the actual Lego parts aren't exactly representative of the CAD model due to piece scarcity.*<br>
-***Will be uploaded later!***
+
+**Image 1 - Full view**
+![Full view](https://github.com/mathias-pl/SynthSlider/blob/main/SynthSlider%20-%20Full%20view.JPG?raw=true)
+
+**Image 2 - Top view**
+![Top view](https://github.com/mathias-pl/SynthSlider/blob/main/Lego%20-%20Top%20view.JPG?raw=true)
+
+**Image 3 - Side view**
+![Side view](https://github.com/mathias-pl/SynthSlider/blob/main/Lego%20-%20Side%20view.JPG?raw=true)
+
+**Image 4 - Front view**
+![Front view](https://github.com/mathias-pl/SynthSlider/blob/main/Lego%20-%20Front%20view.JPG?raw=true)
+
+
+**Image 5 - Slider view**
+![Slider view](https://github.com/mathias-pl/SynthSlider/blob/main/Lego%20-%20Slider%20view.JPG?raw=true)
+
+**Image 6 - Breadboard view**
+![Breadboard view](https://github.com/mathias-pl/SynthSlider/blob/main/Circuit%20-%20Breadboard.JPG?raw=true)
+
+**Image 7 - Arduino view**
+![Arduino view](https://github.com/mathias-pl/SynthSlider/blob/main/Circuit%20-%20Arduino.JPG?raw=true)
+
+
+***Thank you for your interest!***
